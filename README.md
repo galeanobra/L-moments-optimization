@@ -6,7 +6,7 @@ This repository contains the raw results, framweork code, and analysis scripts f
 
 - **Results Data:** 
   - Includes the results obtained after the optimization of all analyzed scenarios, from (a) to (e).
-  - These results represent the balanced accuracy, feature selection, and balanced accuracy in FUN*.csv files, as well as decission variables in VAR*.csv files.
+  - These results represent the balanced accuracy, feature selection, and balanced accuracy in `FUN*.csv` files, as well as decission variables in `VAR*.csv` files.
 
 - **Jupyter Notebook:**
   - Contains the scripts used to generate the figures included in the main article.
