@@ -1,0 +1,13 @@
+name: lmom
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12.8
+  - matplotlib
+  - numpy
+  - pandas
+  - pathlib
+  - plotly
+  - seaborn
+  - jupyter
