@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) [![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb) [![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb)
 
 This repository contains the raw results, framweork code, and analysis scripts for the article **"Title"**, published in the journal *Journal*.
 
@@ -14,7 +14,7 @@ This repository contains the raw results, framweork code, and analysis scripts f
 
 ## Usage
 
-We recommend running the notebook directly in the cloud using [mybinder](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) or [EGI Replay](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb). Note that the execution in the cloud may take a few minutes. But you can run it locally instead by following these steps:
+We recommend running the notebook directly in the cloud using [mybinder](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb) or [EGI Replay](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb). Note that the execution in the cloud may take a few minutes. But you can run it locally instead by following these steps:
 
 1. Clone the repository:
    ```bash
