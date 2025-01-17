@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0)
 
-# Repository for "Title"
+# Resources for "Title"
 
 This repository contains the raw results, framweork code, and analysis scripts for the article **"Title"**. The article has been published in the journal *Journal*.
 
@@ -8,7 +8,7 @@ This repository contains the raw results, framweork code, and analysis scripts f
 
 - **Results Data:** 
   - Includes the results obtained after the optimization of all analyzed scenarios, from (a) to (e).
-  - These results represent the balanced accuracy, feature selection, and balanced accuracy in `FUN.csv` files, as well as decission variables in `VAR.csv` files.
+  - These results represent the sample size *n*, the amount of features selected, and balanced accuracy in `FUN.csv` files, as well as decission variables in `VAR.csv` files.
 
 - **Jupyter Notebook:**
   - Contains the scripts used to generate the figures included in the main article.
