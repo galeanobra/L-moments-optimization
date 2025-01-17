@@ -1,9 +1,9 @@
 name: lmom
 channels:
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
+  - conda-forge
+  - defaults
 dependencies:
-  - python=3.12.8
+  - python=3.10
   - matplotlib
   - numpy
   - pandas
@@ -11,3 +11,5 @@ dependencies:
   - plotly
   - seaborn
   - jupyter
+  - notebook
+  - ipykernel
