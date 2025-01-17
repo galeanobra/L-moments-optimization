@@ -1,8 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) [![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) [![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb)
 
 # Resources for "Title"
 
-This repository contains the raw results, framweork code, and analysis scripts for the article **"Title"**. The article has been published in the journal *Journal*.
+This repository contains the raw results, framweork code, and analysis scripts for the article **"Title"**, published in the journal *Journal*.
 
 ## Contents
 
@@ -28,6 +28,8 @@ This repository contains the raw results, framweork code, and analysis scripts f
 3. Generate Figures:
    - Run the notebook to produce the static figures included in the article.
    - Explore interactive visualizations for deeper insights into the optimization process.
+
+If you prefer, you can run the notebook directly in the cloud using [mybinder](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) or [EGI Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb).
 
 ## Citation
 
