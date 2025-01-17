@@ -1,15 +1,11 @@
 name: lmom
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
   - matplotlib
   - numpy
   - pandas
-  - pathlib
   - plotly
   - seaborn
-  - jupyter
-  - notebook
   - ipykernel
