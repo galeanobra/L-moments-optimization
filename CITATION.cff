@@ -1,0 +1,23 @@
+cff-version: 1.0.0
+message: "If you use this repository, please cite the following preprint:"
+title: "L-moments-based methodology optimization for flow analysis and classification in next-generation networks"
+authors:
+  - family-names: "Galeano-Brajones"
+    given-names: "Jesús"
+  - family-names: "Chidean"
+    given-names: "Mihaela I"
+  - family-names: "Luna"
+    given-names: "Francisco"
+  - family-names: "Calle-Cancho"
+    given-names: "Jesús"
+  - family-names: "Carmona-Murillo"
+    given-names: "Javier"
+date-released: 2025-01-17
+version: "0.1.0"
+publisher: "Preprint"
+repository-code: "https://github.com/galeanobra/L-moments-optimization"
+keywords:
+  - network traffic classification
+  - l-moments
+  - multi-objective optimization
+  - next-generation networks
