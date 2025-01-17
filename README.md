@@ -29,7 +29,7 @@ This repository contains the raw results, framweork code, and analysis scripts f
    - Run the notebook to produce the static figures included in the article.
    - Explore interactive visualizations for deeper insights into the optimization process.
 
-If you prefer, you can run the notebook directly in the cloud using [mybinder](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) or [EGI Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb).
+If you prefer, you can run the notebook directly in the cloud using [mybinder](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb) or [EGI Replay](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/v0.1.0?urlpath=lab/tree/plots.ipynb).
 
 ## Citation
 
