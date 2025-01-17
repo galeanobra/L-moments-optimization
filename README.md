@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb) [![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb)
 
-This repository contains the raw results, framweork code, and analysis scripts for the article **"Title"**, published in the journal *Journal*.
+This repository contains the raw results, framweork code, and analysis scripts for the article **"L-moments-based methodology optimization for flow analysis and classification in next-generation networks"**, published in the journal *Journal*.
 
 ## Contents
 
