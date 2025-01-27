@@ -1,12 +1,12 @@
 cff-version: 1.0.0
 message: "If you use this repository, please cite the following preprint:"
-title: "L-moments-based methodology optimization for flow analysis and classification in next-generation networks"
+title: "Network traffic classification through high-order L-moments and multi-objective optimization"
 authors:
   - family-names: "Galeano-Brajones"
     given-names: "Jesús"
     orcid: https://orcid.org/my-orcid?orcid=0000-0001-8691-8944
   - family-names: "Chidean"
-    given-names: "Mihaela I"
+    given-names: "Mihaela I."
     orcid: https://orcid.org/0000-0001-9692-8871
   - family-names: "Luna"
     given-names: "Francisco"
@@ -17,7 +17,7 @@ authors:
   - family-names: "Carmona-Murillo"
     given-names: "Javier"
     orcid: https://orcid.org/0000-0002-3910-876X
-date-released: 2025-01-17
+date-released: 2025-01-27
 version: "0.1.0"
 publisher: "Preprint"
 repository-code: "https://github.com/galeanobra/L-moments-optimization"
