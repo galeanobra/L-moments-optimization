@@ -1,0 +1,30 @@
+==> Solution 0
+Bwd Packets/s (tau4) 0.18332513809417858
+
+==> Solution 1
+Packet Length Mean (tau3) 0.07580375603172307
+Init_Win_bytes_forward (tau5) 0.0923839294270127
+
+==> Solution 2
+Packet Length Std (tau3) 0.4378912336245901
+
+==> Solution 3
+Bwd Packets/s (tau4) 0.14579694752576508
+
+==> Solution 4
+Bwd Packets/s (tau4) 0.19127843211959722
+
+==> Solution 5
+Bwd Packets/s (tau4) 0.0
+
+==> Solution 6
+Bwd Packets/s (tau4) 0.06965822732771884
+
+==> Solution 7
+Bwd Packet Length Min (tau3) 0.021803166461751823
+Packet Length Mean (tau3) 0.05448302590697135
+Init_Win_bytes_forward (tau5) 0.0871620326683482
+
+==> Solution 8
+Bwd Packets/s (tau4) 0.09645580890247145
+Packet Length Variance (tau3) 0.1379508623222429

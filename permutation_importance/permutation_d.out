@@ -1,0 +1,993 @@
+==> Solution 0
+Total Backward Packets (tau4) 0.0025857982522323373
+Fwd Packet Length Mean (tau3) 0.23054894416514957
+Fwd Packet Length Mean (tau4) 0.12892123344545126
+Fwd Packet Length Std (tau3) 0.006743498656624196
+Bwd Packet Length Max (tau3) 0.00318948148303703
+Bwd Packet Length Max (tau5) 0.0023841554924352026
+Flow Bytes/s (tau3) 0.1575778443598763
+Bwd IAT Max (tau4) -0.0019528497613866917
+Bwd IAT Max (tau5) -0.008139142602560026
+Fwd Packets/s (tau5) 0.10365802247232729
+RST Flag Count (tau4) 0.0003600883881104873
+Avg Fwd Segment Size (tau4) 0.1289961420575848
+Subflow Bwd Packets (tau4) 0.0027794910197443587
+Subflow Bwd Bytes (tau4) 0.0018414043495417198
+Init_Win_bytes_backward (tau4) 0.0034870255850351084
+Init_Win_bytes_backward (tau5) -0.004270080011211097
+Idle Min (tau3) 0.0070197387664082305
+Inbound (tau4) 0.01350741176326764
+
+==> Solution 1
+Fwd Packet Length Mean (tau3) 0.6442236889989894
+Subflow Bwd Bytes (tau4) 0.31613709710871657
+Init_Win_bytes_backward (tau5) 0.023063595201856375
+Inbound (tau4) 0.0008413729796341215
+
+==> Solution 2
+Subflow Bwd Bytes (tau4) 0.04691217234028492
+Init_Win_bytes_backward (tau5) 0.04141749156960206
+Idle Min (tau3) 0.10390889498270393
+
+==> Solution 3
+Source Port (tau3) 0.0023045430725432783
+Source Port (tau4) 0.00044267374944665744
+Source Port (tau5) 0.002447701696657719
+Flow Duration (tau3) 0.0007161967253766314
+Total Fwd Packets (tau3) 0.0010329054153755586
+Total Fwd Packets (tau4) 0.0011804633318577655
+Total Backward Packets (tau5) 0.000737789582411145
+Total Length of Fwd Packets (tau3) 0.0009005432197783566
+Total Length of Fwd Packets (tau4) 0.00039068945064217136
+Fwd Packet Length Max (tau3) 0.002315339501060517
+Fwd Packet Length Max (tau4) 0.0006294216924344435
+Fwd Packet Length Max (tau5) 0.0049561862768554565
+Fwd Packet Length Min (tau3) 0.002625651054909972
+Fwd Packet Length Min (tau5) 0.005414055747187119
+Fwd Packet Length Mean (tau4) 0.0006446174133193742
+Fwd Packet Length Std (tau3) 0.001475579164822216
+Bwd Packet Length Max (tau3) 0.0002951158329644876
+Bwd Packet Length Max (tau5) 0.001475579164822216
+Bwd Packet Length Mean (tau3) 0.0005902316659289383
+Bwd Packet Length Mean (tau4) 0.0010329054153755586
+Bwd Packet Length Std (tau5) 0.00019314507913725798
+Flow Bytes/s (tau3) 0.0013996005603971924
+Flow Bytes/s (tau4) 0.0024628974175427234
+Flow Bytes/s (tau5) 0.002712426087852197
+Flow Packets/s (tau4) 0.001562354197764441
+Flow IAT Mean (tau3) 0.0009961168374560403
+Flow IAT Mean (tau4) 0.0013540133977422153
+Flow IAT Std (tau3) 0.0010329054153755586
+Flow IAT Std (tau4) 0.0010329054153755586
+Flow IAT Max (tau3) 0.0007010010044916267
+Flow IAT Max (tau5) 0.003404628507608254
+Flow IAT Min (tau3) 0.00020834080002222569
+Flow IAT Min (tau4) 0.002386918813117737
+Fwd IAT Total (tau5) 0.003404628507608254
+Fwd IAT Mean (tau3) 0.0002887186968149787
+Fwd IAT Min (tau5) 0.003994860173537118
+Bwd IAT Std (tau4) 0.00034070299561946477
+Bwd IAT Max (tau5) 0.0005902316659289383
+Bwd IAT Min (tau5) 0.0010329054153755586
+Fwd Header Length (tau5) 0.0008701517780083471
+Min Packet Length (tau5) 0.005266497830704912
+Packet Length Mean (tau3) 0.002610455334024967
+Packet Length Mean (tau4) 0.00046666805506723197
+Packet Length Variance (tau4) 0.0002951158329644876
+RST Flag Count (tau4) 0.0001475579164822438
+RST Flag Count (tau5) 0.0010329054153755586
+ACK Flag Count (tau5) 0.0001475579164822438
+URG Flag Count (tau5) 0.0019334486351539153
+Down/Up Ratio (tau5) 0.002081006551636122
+Average Packet Size (tau3) 0.002020223668096103
+Average Packet Size (tau5) 0.00513413563510771
+Avg Fwd Segment Size (tau4) 0.0006446174133193742
+Avg Bwd Segment Size (tau3) 0.0005902316659289383
+Avg Bwd Segment Size (tau4) 0.0010329054153755586
+Fwd Header Length.1 (tau3) 0.0004730651912167039
+Subflow Fwd Packets (tau5) 0.001475579164822216
+Subflow Fwd Bytes (tau3) 0.0009005432197783566
+Subflow Fwd Bytes (tau5) 0.002671238217564912
+Init_Win_bytes_forward (tau5) 0.0010329054153755586
+Init_Win_bytes_backward (tau3) 0.001475579164822216
+Init_Win_bytes_backward (tau5) 0.0014907748857072207
+min_seg_size_forward (tau3) -3.0391441769972438e-05
+min_seg_size_forward (tau5) -0.00011716647471219736
+Active Mean (tau3) 0.0
+Active Std (tau4) 0.0001475579164822438
+Active Std (tau5) 0.0
+Active Max (tau3) 0.0
+Active Min (tau3) 0.0
+Active Min (tau4) 0.0
+Active Min (tau5) 0.0
+Idle Mean (tau3) 0.0
+Idle Min (tau4) 0.0
+Inbound (tau3) 0.001343216969225014
+Inbound (tau4) 0.000930934661548366
+
+==> Solution 4
+Subflow Bwd Bytes (tau4) 0.12444444444444447
+Init_Win_bytes_backward (tau5) -0.16518518518518516
+Idle Min (tau3) 0.13080086951547396
+
+==> Solution 5
+Fwd Packet Length Mean (tau3) 0.00234313476053738
+Fwd Packet Length Mean (tau4) 0.0007653524827224331
+Bwd Packet Length Max (tau5) 0.0011127207398061723
+Bwd Packet Length Min (tau4) 5.4519681605080805e-05
+Bwd Packet Length Std (tau5) 0.00017636684303349673
+Fwd IAT Min (tau5) 0.006154666278971099
+Bwd IAT Std (tau4) 0.08368606701940033
+Bwd IAT Std (tau5) 5.4519681605080805e-05
+Bwd IAT Max (tau5) 5.4519681605080805e-05
+Fwd Header Length (tau5) 0.00023088652463861456
+Fwd Packets/s (tau5) 0.0026818490999059863
+Min Packet Length (tau4) 0.0008016989371257832
+Min Packet Length (tau5) 0.009534540381776183
+Max Packet Length (tau5) 0.00882163064040716
+Packet Length Mean (tau3) 0.002506693805352622
+RST Flag Count (tau4) 0.0010582010582010175
+URG Flag Count (tau5) 0.0005472737563022209
+Average Packet Size (tau3) 0.002501328376369257
+Average Packet Size (tau4) 0.002700022327107717
+Avg Fwd Segment Size (tau3) 0.00234313476053738
+Avg Fwd Segment Size (tau4) 0.0007653524827224331
+Subflow Bwd Bytes (tau4) 0.0
+Init_Win_bytes_forward (tau5) 0.0004361574528404244
+Init_Win_bytes_backward (tau4) 0.0005291005291004902
+Init_Win_bytes_backward (tau5) 0.0
+min_seg_size_forward (tau4) 0.0008145067353441485
+Idle Min (tau4) 0.0010582010582009804
+Inbound (tau3) 0.0005291005291004902
+
+==> Solution 6
+Total Backward Packets (tau4) 0.00026922999370197304
+Fwd Packet Length Mean (tau3) 0.015381862613264019
+Fwd Packet Length Mean (tau4) 0.05099987130114544
+Fwd Packet Length Std (tau3) 0.012926703595992092
+Bwd Packet Length Max (tau3) 0.0001382636880953673
+Bwd Packet Length Mean (tau3) 0.011959740188339932
+Bwd Packet Length Mean (tau4) 0.0006937079480630048
+Bwd Packet Length Std (tau5) 0.0004948045522019662
+Flow Bytes/s (tau3) 0.16581869501416788
+Flow Bytes/s (tau4) 0.05697513035800361
+Flow Bytes/s (tau5) 0.048036056311250186
+Flow Packets/s (tau3) 0.01652686274464088
+Flow IAT Std (tau4) 0.0028052903104089553
+Flow IAT Max (tau4) 0.044152528415293046
+Fwd IAT Total (tau4) 0.039975684161102865
+Fwd IAT Min (tau3) 0.036506471108693504
+Fwd IAT Min (tau5) 0.056247602333631797
+Bwd IAT Max (tau4) 0.00033716708395648
+Bwd IAT Max (tau5) -0.011601563365932691
+Fwd Header Length (tau5) 0.002377778549815616
+Fwd Packets/s (tau4) 0.032236042876382896
+Fwd Packets/s (tau5) 0.03059737291877318
+Bwd Packets/s (tau4) 0.0002748914178899072
+Bwd Packets/s (tau5) 0.0006816315504015366
+Max Packet Length (tau3) 0.03562257520455677
+Packet Length Mean (tau3) 0.035279746696412574
+Packet Length Mean (tau4) 0.05487351701650626
+Packet Length Variance (tau5) 0.00046499033269098433
+RST Flag Count (tau4) 0.00045681054118755043
+RST Flag Count (tau5) 0.012522610690525368
+URG Flag Count (tau5) 0.012837756767287009
+Average Packet Size (tau4) 0.05370443232143315
+Avg Fwd Segment Size (tau3) 0.015376201189076158
+Avg Fwd Segment Size (tau4) 0.050965902756018165
+Avg Bwd Segment Size (tau3) 0.011954078764152035
+Avg Bwd Segment Size (tau4) 0.0006937079480630048
+Fwd Header Length.1 (tau3) 0.006499513859863952
+Subflow Fwd Bytes (tau3) 0.01352504433937222
+Subflow Fwd Bytes (tau5) 0.04964088658346192
+Subflow Bwd Packets (tau4) 0.00026922999370197304
+Subflow Bwd Bytes (tau4) -9.536180217880237e-05
+Init_Win_bytes_forward (tau5) 0.01457039067914386
+Init_Win_bytes_backward (tau4) 0.024359306645303686
+Init_Win_bytes_backward (tau5) 0.00031854685309222014
+min_seg_size_forward (tau4) 0.0051663226980301164
+min_seg_size_forward (tau5) -0.00965228823636514
+Active Max (tau5) 0.00031213187961846395
+Idle Mean (tau4) 0.0009952705285916446
+Idle Min (tau3) 0.1075714894228345
+Inbound (tau4) 0.001499137281311902
+
+==> Solution 7
+Source Port (tau3) 0.0004982561036372957
+Source Port (tau4) 0.0004982561036372957
+Source Port (tau5) 0.00024912805181864783
+Flow Duration (tau3) 0.001494768310911887
+Total Fwd Packets (tau3) 0.0
+Total Fwd Packets (tau4) 0.0
+Total Backward Packets (tau5) 0.0
+Total Length of Fwd Packets (tau3) 0.0009965122072745913
+Total Length of Fwd Packets (tau4) 0.0007473841554559435
+Fwd Packet Length Max (tau3) 0.0009267195895757974
+Fwd Packet Length Max (tau4) 0.00024912805181864783
+Fwd Packet Length Max (tau5) 0.0012456402590932392
+Fwd Packet Length Min (tau3) 0.0009779582850386233
+Fwd Packet Length Min (tau5) 0.0012456402590932392
+Fwd Packet Length Mean (tau4) 0.00024912805181864783
+Fwd Packet Length Std (tau3) 0.0
+Fwd Packet Length Std (tau4) 0.0
+Bwd Packet Length Max (tau3) 0.00024912805181864783
+Bwd Packet Length Max (tau5) 0.00024912805181864783
+Bwd Packet Length Mean (tau3) 0.00024912805181864783
+Bwd Packet Length Mean (tau4) 0.00024912805181864783
+Bwd Packet Length Std (tau5) 0.0
+Flow IAT Std (tau4) 0.00024912805181864783
+Fwd IAT Total (tau4) 0.0012456402590932392
+Fwd IAT Min (tau5) 0.002491280518186404
+Bwd IAT Mean (tau5) 0.0
+Bwd IAT Std (tau4) 0.0
+Bwd IAT Max (tau5) 0.0
+Fwd Header Length (tau5) 0.0
+Fwd Packets/s (tau5) 0.0012456402590932392
+Min Packet Length (tau5) 0.0012456402590932392
+Packet Length Mean (tau3) 0.0010035776327700363
+Packet Length Mean (tau4) 0.00024912805181864783
+RST Flag Count (tau4) 0.0
+URG Flag Count (tau5) 0.0007473841554559435
+Average Packet Size (tau4) 0.00024912805181864783
+Avg Fwd Segment Size (tau3) 0.0010035776327700363
+Avg Fwd Segment Size (tau4) 0.00024912805181864783
+Avg Bwd Segment Size (tau3) 0.00024912805181864783
+Avg Bwd Segment Size (tau4) 0.00024912805181864783
+Fwd Header Length.1 (tau3) 0.00024912805181864783
+Subflow Fwd Packets (tau4) 0.0
+Subflow Fwd Packets (tau5) 0.0
+Subflow Fwd Bytes (tau3) 0.0009965122072745913
+Subflow Bwd Packets (tau4) 0.0
+Subflow Bwd Packets (tau5) 0.0
+Subflow Bwd Bytes (tau4) 0.00024912805181864783
+Init_Win_bytes_forward (tau5) 0.0
+Init_Win_bytes_backward (tau4) 0.0
+Init_Win_bytes_backward (tau5) 0.00024912805181864783
+min_seg_size_forward (tau4) 0.0004982561036372957
+Active Max (tau5) 0.0007473841554559435
+Idle Min (tau3) 0.0007473841554559435
+Inbound (tau3) 0.0007473841554559435
+Inbound (tau4) 0.0007473841554559435
+
+==> Solution 8
+Fwd Packets/s (tau5) -0.003701996198577547
+Packet Length Mean (tau3) 0.22972668300536866
+Subflow Bwd Bytes (tau4) 0.06118012650211905
+Init_Win_bytes_backward (tau5) 0.03973684196493166
+
+==> Solution 9
+Fwd Packet Length Mean (tau3) 0.5374453683916841
+Subflow Bwd Bytes (tau4) 0.07792898971938733
+Init_Win_bytes_backward (tau5) -0.025246131591661298
+Idle Min (tau3) -0.023283579301625945
+
+==> Solution 10
+Fwd Packet Length Mean (tau3) 0.6446291297537924
+Fwd Packets/s (tau5) 0.22015333991069064
+Subflow Bwd Bytes (tau4) 0.33326808899328
+Init_Win_bytes_backward (tau5) 0.022247404434732238
+act_data_pkt_fwd (tau3) 0.016652722948256187
+Idle Min (tau3) 0.0029728347871906813
+
+==> Solution 11
+Subflow Bwd Bytes (tau4) 0.1031397429640475
+Init_Win_bytes_backward (tau5) -0.042876500193573364
+Idle Min (tau3) 0.19550923965629532
+
+==> Solution 12
+Total Fwd Packets (tau3) 0.0010329054153755586
+Total Fwd Packets (tau4) 0.001475579164822179
+Total Backward Packets (tau5) 0.000737789582411108
+Total Length of Fwd Packets (tau4) 0.0028383911472998533
+Fwd Packet Length Max (tau3) 0.0027280254135415203
+Fwd Packet Length Max (tau4) 0.0027516161143576654
+Fwd Packet Length Max (tau5) 0.009598065312297973
+Fwd Packet Length Mean (tau4) 0.0025324788858182012
+Fwd Packet Length Std (tau3) 0.000737789582411108
+Bwd Packet Length Max (tau3) 0.0001475579164822068
+Bwd Packet Length Mean (tau3) 0.0
+Bwd Packet Length Mean (tau4) 0.0004426737494466204
+Bwd Packet Length Std (tau5) 4.558716265501417e-05
+Flow Bytes/s (tau3) 0.013838732919848273
+Flow Bytes/s (tau4) 0.0035977735867454377
+Flow Bytes/s (tau5) 0.004350758890041551
+Flow Packets/s (tau3) 0.0016839199648444048
+Flow IAT Std (tau4) 0.0001475579164822068
+Flow IAT Max (tau4) 0.003968868024134949
+Fwd IAT Total (tau4) 0.004263983857099363
+Fwd IAT Min (tau3) 0.0014759827696265344
+Fwd IAT Min (tau5) 0.006859243470239251
+Bwd IAT Max (tau4) 0.0001475579164822068
+Bwd IAT Max (tau5) 0.0
+Bwd IAT Min (tau5) -0.0001475579164822068
+Fwd Packets/s (tau4) 0.0022697523384054654
+Fwd Packets/s (tau5) 0.003317853474665992
+Bwd Packets/s (tau4) 0.000737789582411108
+Bwd Packets/s (tau5) 0.0004426737494466204
+Min Packet Length (tau3) 0.004878613433453083
+Max Packet Length (tau3) 0.002788808297081539
+Packet Length Mean (tau3) 0.0044467361125236264
+Packet Length Mean (tau4) 0.00266484108141544
+Packet Length Mean (tau5) 0.010904493703603505
+Avg Fwd Segment Size (tau4) 0.0025324788858182012
+Subflow Fwd Packets (tau5) 0.0002951158329644136
+Subflow Bwd Bytes (tau4) 0.0001475579164822068
+Init_Win_bytes_backward (tau3) 0.000737789582411108
+Init_Win_bytes_backward (tau4) 0.0005902316659288642
+Init_Win_bytes_backward (tau5) 0.0002951158329644136
+act_data_pkt_fwd (tau4) 0.00044267374944665744
+Active Min (tau3) 1.5195720885004723e-05
+Idle Mean (tau4) 0.0
+Idle Std (tau5) 0.0001475579164822068
+Idle Max (tau3) 0.0
+Idle Min (tau3) 0.0
+Idle Min (tau4) 0.0
+Inbound (tau4) 0.0005902316659288642
+
+==> Solution 13
+Subflow Bwd Bytes (tau4) 0.16589327146171684
+Init_Win_bytes_backward (tau5) -0.08516946261981624
+Idle Min (tau3) 0.1781981472592941
+
+==> Solution 14
+Fwd Packet Length Mean (tau3) 0.0
+Subflow Bwd Bytes (tau4) 0.0
+Init_Win_bytes_backward (tau5) 0.0
+Inbound (tau4) 0.0
+
+==> Solution 15
+Fwd Packet Length Mean (tau3) 0.1315850531415922
+Fwd Packet Length Mean (tau4) 0.036873431672072354
+Bwd Packet Length Max (tau5) 0.0005754507084155444
+Bwd Packet Length Min (tau4) -0.00042104165815167366
+Bwd Packet Length Mean (tau5) 0.019241760213531373
+Bwd Packet Length Std (tau3) -0.01851851851851849
+Flow IAT Max (tau5) 0.016367396633866327
+Flow IAT Min (tau3) 0.012647790344106938
+Flow IAT Min (tau4) 0.010268324951969757
+Fwd IAT Total (tau5) 0.01568634043149386
+Fwd IAT Mean (tau3) 0.006705874254492243
+Fwd IAT Std (tau5) 0.0008748901099253267
+Fwd IAT Max (tau5) 0.016277646140238595
+Fwd IAT Min (tau5) 0.015927881102390035
+Bwd IAT Mean (tau4) 8.975049362773084e-05
+Bwd IAT Mean (tau5) 0.0002692514808831925
+Bwd IAT Std (tau5) 0.0185185185185186
+Bwd IAT Max (tau5) -0.00017950098725538766
+Fwd Header Length (tau5) 0.004091574960225534
+Fwd Packets/s (tau5) 0.01782302659741508
+Packet Length Mean (tau4) 0.0492745323043919
+RST Flag Count (tau4) 0.0006282534553940048
+Avg Fwd Segment Size (tau3) 0.1315850531415922
+Avg Fwd Segment Size (tau4) 0.036873431672072354
+Subflow Bwd Bytes (tau4) -0.018566083519505838
+Init_Win_bytes_forward (tau5) 0.002692514808831481
+Init_Win_bytes_backward (tau4) 0.04993969288447372
+Init_Win_bytes_backward (tau5) -0.00017950098725538766
+min_seg_size_forward (tau4) 0.004110048833550224
+Idle Std (tau3) 0.0015019050099995084
+Idle Min (tau3) 0.03790945003632281
+Inbound (tau4) 0.0192971818335053
+
+==> Solution 16
+Flow Duration (tau5) 0.025464511846725824
+Total Fwd Packets (tau3) 0.00015820184021523667
+Total Backward Packets (tau4) 0.00015045512675844938
+Total Backward Packets (tau5) 0.0003761378168961234
+Fwd Packet Length Max (tau5) 0.029903048228945333
+Fwd Packet Length Mean (tau3) 0.005833201804418893
+Fwd Packet Length Mean (tau4) 0.02355636047946948
+Fwd Packet Length Std (tau3) 0.00021793597668084974
+Bwd Packet Length Max (tau3) 0.0002024425497672011
+Bwd Packet Length Max (tau5) 0.00022568269013767406
+Bwd Packet Length Min (tau3) 0.00021018926322402542
+Bwd Packet Length Min (tau4) -0.00021793597668088674
+Bwd Packet Length Mean (tau3) -2.324014037047295e-05
+Bwd Packet Length Mean (tau5) -1.5493426913648634e-05
+Bwd Packet Length Std (tau5) 0.0
+Flow Bytes/s (tau3) 0.05481443188485583
+Flow Bytes/s (tau4) 0.027008934824329683
+Flow Bytes/s (tau5) 0.02377741717010214
+Flow Packets/s (tau4) 0.016512909090261596
+Flow IAT Mean (tau3) 0.013548561264589698
+Flow IAT Mean (tau4) 0.018146768058295848
+Flow IAT Std (tau3) 0.00022568269013767406
+Flow IAT Std (tau4) 0.00015820184021523667
+Flow IAT Max (tau5) 0.026019852073018674
+Flow IAT Min (tau3) 0.013028503463092997
+Flow IAT Min (tau4) 0.01775737638567502
+Fwd IAT Total (tau5) 0.025944624509639524
+Fwd IAT Mean (tau3) 0.013559759120534346
+Fwd IAT Std (tau5) 0.00030865696697368605
+Fwd IAT Max (tau4) 0.018458692596348508
+Fwd IAT Max (tau5) 0.02601985207301875
+Fwd IAT Min (tau5) 0.02570792753496613
+Bwd IAT Total (tau5) 0.00015045512675844938
+Bwd IAT Mean (tau4) 0.00035289767652565046
+Bwd IAT Mean (tau5) 0.00012721498638797643
+Bwd IAT Std (tau5) -1.5493426913648634e-05
+Bwd IAT Max (tau5) 0.00035289767652565046
+Fwd Header Length (tau5) 0.0035202020519098007
+Fwd Packets/s (tau5) 0.012576440511463746
+Bwd Packets/s (tau3) 0.00015045512675844938
+Min Packet Length (tau5) 0.02997052907886773
+Packet Length Mean (tau3) 0.005879682085159765
+Packet Length Mean (tau4) 0.023526401625532174
+Packet Length Std (tau3) 7.522756337922469e-05
+RST Flag Count (tau4) -0.00022568269013767406
+RST Flag Count (tau5) 0.0
+ACK Flag Count (tau5) 0.0006847947838698095
+URG Flag Count (tau5) 0.0004513653802753481
+CWE Flag Count (tau4) 0.0009547181835594479
+Down/Up Ratio (tau3) 0.0002024425497672011
+Average Packet Size (tau4) 0.02370196932103219
+Avg Fwd Segment Size (tau3) 0.005833201804418893
+Avg Fwd Segment Size (tau4) 0.02355636047946948
+Avg Bwd Segment Size (tau3) -2.324014037047295e-05
+Avg Bwd Segment Size (tau4) 0.0
+Fwd Header Length.1 (tau3) 0.006025951783794614
+Subflow Fwd Packets (tau5) 0.00022568269013767406
+Subflow Fwd Bytes (tau3) 0.004617995791588725
+Subflow Fwd Bytes (tau5) 0.026850732984114407
+Subflow Bwd Packets (tau3) 0.00035289767652565046
+Subflow Bwd Packets (tau4) 0.00015045512675844938
+Subflow Bwd Bytes (tau4) 0.00018918869404249694
+Init_Win_bytes_forward (tau5) 0.00035289767652565046
+Init_Win_bytes_backward (tau4) 0.00012721498638797643
+Init_Win_bytes_backward (tau5) 0.00012721498638797643
+min_seg_size_forward (tau4) 0.0033022660752290247
+Idle Min (tau3) 0.0012823197199346807
+Idle Min (tau5) 0.0008794906201802233
+Inbound (tau4) 0.0009072099029286221
+
+==> Solution 17
+Total Backward Packets (tau4) 0.00033150174452911685
+Fwd Packet Length Mean (tau3) 0.07599504766893676
+Fwd Packet Length Mean (tau4) 0.10914272609767532
+Bwd Packet Length Max (tau5) 0.00012922989148737388
+Bwd Packet Length Min (tau3) 0.0013290820173124107
+Bwd Packet Length Min (tau4) -0.006851617843272373
+Bwd Packet Length Mean (tau3) 0.0016473055391572993
+Bwd Packet Length Mean (tau4) 0.01467476028370133
+Bwd Packet Length Std (tau5) 0.00012820487842205944
+Flow Bytes/s (tau3) 0.13227657759294317
+Flow Bytes/s (tau4) 0.10831935109881274
+Flow Bytes/s (tau5) 0.11278787599523392
+Flow Packets/s (tau3) 0.09746478088029253
+Flow IAT Std (tau4) 0.0028746687026712423
+Bwd IAT Max (tau4) -0.006730564582725067
+Bwd IAT Max (tau5) 0.0012003763691484186
+Fwd Header Length (tau5) 0.006452222509617152
+Fwd Packets/s (tau5) 0.09086409845496186
+Packet Length Mean (tau3) 0.08349639077858328
+RST Flag Count (tau4) 0.014827471581361626
+URG Flag Count (tau5) 0.0017841878182611737
+Avg Fwd Segment Size (tau3) 0.07609772111505553
+Avg Fwd Segment Size (tau4) 0.10922649548604202
+Subflow Bwd Packets (tau3) -0.006741792779278925
+Subflow Bwd Packets (tau4) 0.0003136226998422531
+Subflow Bwd Packets (tau5) 0.00020432187917226083
+Subflow Bwd Bytes (tau4) 0.00046685824082607724
+Init_Win_bytes_forward (tau5) 0.0021508999352590763
+Init_Win_bytes_backward (tau4) 0.014717169221208063
+Init_Win_bytes_backward (tau5) 0.00017826620354540376
+min_seg_size_forward (tau4) 0.007279666262631546
+min_seg_size_forward (tau5) 0.007678584133647452
+Active Max (tau5) 0.0009822520239685106
+Idle Min (tau3) 0.007677582760643231
+Inbound (tau4) 0.0016728839186240425
+
+==> Solution 18
+Total Backward Packets (tau4) 0.001458853600257659
+Fwd Packet Length Mean (tau3) 0.37490831263002306
+Bwd Packet Length Mean (tau3) 0.0013907280674296807
+Flow IAT Max (tau4) 0.014033402182918634
+Fwd IAT Total (tau4) 0.012989860421074343
+Fwd IAT Min (tau3) 0.020504008895563475
+Fwd IAT Min (tau5) 0.04469921401904853
+Bwd IAT Std (tau3) 0.1580607322840709
+Bwd IAT Max (tau4) 0.0016266866329297525
+Bwd IAT Max (tau5) 0.0010130543970940191
+Fwd Packets/s (tau5) 0.01728766369160047
+Avg Fwd Segment Size (tau4) 0.023431639293669575
+Subflow Bwd Bytes (tau4) 0.0009045093297751124
+Init_Win_bytes_backward (tau5) 0.0011708565663786086
+Active Min (tau3) 0.0024935577946272693
+Idle Min (tau3) 0.003056640938937575
+Inbound (tau4) 0.0013560686530592985
+
+==> Solution 19
+Subflow Bwd Bytes (tau4) 0.09091385819407449
+Init_Win_bytes_backward (tau5) 0.04040404040404044
+Idle Min (tau3) 0.1080206102731525
+
+==> Solution 20
+Fwd Packet Length Mean (tau3) 0.3002285304983851
+Fwd Packets/s (tau5) 0.10284952622483982
+Subflow Bwd Bytes (tau4) 0.02574226244640269
+Init_Win_bytes_backward (tau5) 0.04461323534248048
+Idle Min (tau3) 0.029908710256352816
+Idle Min (tau5) 0.0029426062533956707
+Inbound (tau4) 0.00919622286577193
+
+==> Solution 21
+Bwd IAT Min (tau5) 2.5025025025067944e-05
+Fwd Header Length (tau3) 0.00029318158421013746
+Bwd Header Length (tau5) 0.0007293946024800047
+Fwd Packets/s (tau3) 0.25950239079341936
+Fwd Packets/s (tau4) 0.0012156576707998967
+Fwd Packets/s (tau5) 0.003646973012399727
+Bwd Packets/s (tau4) 0.0
+Bwd Packets/s (tau5) 0.0
+Max Packet Length (tau3) 0.013846395629765454
+Packet Length Mean (tau3) 0.023556324376893367
+Packet Length Mean (tau4) 0.0002502502502503094
+Packet Length Mean (tau5) 0.030847039599774934
+Packet Length Variance (tau5) 2.5025025025067944e-05
+Avg Fwd Segment Size (tau4) 0.0004933817844103109
+Subflow Bwd Bytes (tau4) 0.0
+Init_Win_bytes_backward (tau5) 0.0007293946024800047
+Idle Min (tau3) 0.11334934496860101
+
+==> Solution 22
+Bwd IAT Min (tau5) 0.00028998818215238603
+Fwd Header Length (tau3) 0.0002701294286909424
+Bwd Header Length (tau5) 0.00019703410146817055
+Fwd Packets/s (tau3) 0.2998780345056967
+Fwd Packets/s (tau4) 0.001219948835789982
+Fwd Packets/s (tau5) 0.004355028832558856
+Bwd Packets/s (tau4) 0.001505570611261627
+Bwd Packets/s (tau5) -0.00011520596088413863
+Max Packet Length (tau3) 0.016477517288031412
+Packet Length Mean (tau3) 0.020502000737922705
+Packet Length Mean (tau4) -0.0002113928618991586
+Packet Length Mean (tau5) 0.048893636516460615
+Packet Length Variance (tau5) 0.0001505570611261738
+Avg Fwd Segment Size (tau4) -0.00018040816833775342
+Subflow Bwd Bytes (tau4) 0.0002280187950295757
+Init_Win_bytes_backward (tau5) 4.6477040341996734e-05
+Idle Min (tau3) 0.0342831527404324
+
+==> Solution 23
+Total Fwd Packets (tau3) 0.00028511697381879603
+Total Fwd Packets (tau4) 0.000305376087887758
+Total Backward Packets (tau4) 0.00019683102056885135
+Fwd Packet Length Mean (tau3) 0.028407505601604655
+Fwd Packet Length Mean (tau4) 0.013731399623325738
+Fwd Packet Length Std (tau3) 0.00016932240952571842
+Bwd Packet Length Max (tau3) 0.022222222222222254
+Bwd Packet Length Max (tau5) -2.0259114068924926e-05
+Fwd IAT Std (tau5) 0.000305376087887758
+Fwd IAT Max (tau4) 0.038183129273900294
+Fwd IAT Max (tau5) 0.0165873335730153
+Fwd IAT Min (tau5) 0.01577687031661072
+Bwd IAT Total (tau5) 0.022510219256101232
+Bwd IAT Mean (tau4) 0.0223206377325067
+Bwd IAT Mean (tau5) 0.0223206377325067
+Bwd IAT Std (tau5) 0.022222222222222254
+Bwd IAT Max (tau5) 0.0223206377325067
+Fwd Header Length (tau5) 0.002854049798248178
+Bwd Header Length (tau5) 4.051822813792386e-05
+Fwd Packets/s (tau3) 0.017406563217840215
+Fwd Packets/s (tau4) 0.010384177671389586
+Fwd Packets/s (tau5) 0.021648658410751736
+Bwd Packets/s (tau4) 0.02309783225774757
+Bwd Packets/s (tau5) 0.022802585726894236
+Min Packet Length (tau5) 0.07696963561650583
+Packet Length Mean (tau3) 0.0286072166822338
+Packet Length Mean (tau4) 0.01365036316705004
+RST Flag Count (tau4) 0.00012880418138790559
+Average Packet Size (tau4) 0.0355341379575147
+Avg Fwd Segment Size (tau3) 0.028407505601604655
+Avg Fwd Segment Size (tau4) 0.013731399623325738
+Avg Bwd Segment Size (tau3) 0.022201963108153328
+Avg Bwd Segment Size (tau4) 0.001180986123412997
+Fwd Header Length.1 (tau3) 0.003807816229988973
+Subflow Fwd Bytes (tau3) 0.004254907422712432
+Subflow Fwd Bytes (tau5) 0.031028745460761398
+Subflow Bwd Packets (tau3) 9.841551028440716e-05
+Subflow Bwd Packets (tau4) 0.00019683102056885135
+Subflow Bwd Bytes (tau3) 0.022201963108153328
+Subflow Bwd Bytes (tau4) 0.022222222222222254
+Init_Win_bytes_forward (tau3) 0.022391544631747935
+Init_Win_bytes_forward (tau4) 9.841551028440716e-05
+Init_Win_bytes_forward (tau5) 0.0006990381290254236
+Init_Win_bytes_backward (tau4) 0.0223206377325067
+Init_Win_bytes_backward (tau5) 0.00021997019469810475
+min_seg_size_forward (tau4) 0.003709400719704566
+min_seg_size_forward (tau5) 0.0026774778917482886
+Active Max (tau5) 0.0
+Idle Mean (tau4) 0.0
+Idle Std (tau5) 4.051822813792386e-05
+Idle Min (tau3) 0.0006642800210081568
+Idle Min (tau4) 0.0
+Inbound (tau4) 0.0005123366654911088
+Inbound (tau5) 0.0004746984974134394
+
+==> Solution 24
+Total Length of Bwd Packets (tau4) 4.0514534589271754e-05
+Fwd Packet Length Max (tau3) 0.16279756702792988
+Fwd Packet Length Max (tau4) 2.0257267294635877e-05
+Fwd Packet Length Max (tau5) 0.009385568400097152
+Fwd Packet Length Min (tau3) 0.06938513559628263
+Fwd Packet Length Min (tau5) 0.010956313320766742
+Fwd Packet Length Mean (tau4) 0.00024308720753574153
+Fwd Packet Length Std (tau3) 0.0005494559668856406
+Flow Bytes/s (tau5) 0.09657417854028079
+Flow IAT Min (tau5) 0.01177915276220387
+Fwd Packets/s (tau5) 0.0007461128007106114
+RST Flag Count (tau4) 0.0010558876492516855
+RST Flag Count (tau5) 0.0005899705014749124
+Avg Fwd Segment Size (tau4) 0.00024308720753574153
+Subflow Bwd Bytes (tau4) 4.0514534589271754e-05
+Init_Win_bytes_backward (tau5) -2.0257267294635877e-05
+Inbound (tau4) -2.0257267294635877e-05
+
+==> Solution 25
+Total Backward Packets (tau4) 0.0004129071736054997
+Fwd Packet Length Max (tau3) 0.03353826863767617
+Fwd Packet Length Max (tau5) 0.03110831090583921
+Fwd Packet Length Mean (tau3) 0.033843779896315186
+Fwd Packet Length Mean (tau4) 0.0033077547876985505
+Bwd Packet Length Max (tau5) 0.0
+Bwd Packet Length Min (tau4) 0.030303030303030276
+Bwd Packet Length Mean (tau5) 0.0
+Bwd Packet Length Std (tau3) 0.030344147033427915
+Flow IAT Std (tau4) 0.0006927471482757186
+Fwd IAT Min (tau3) 0.06294347697024016
+Fwd IAT Min (tau5) 0.019555149804826793
+Bwd IAT Mean (tau4) 0.00013306719893542893
+Bwd IAT Std (tau4) 0.030303030303030276
+Fwd Header Length (tau5) 0.0014637391882900141
+Fwd Packets/s (tau5) 0.005933201644898967
+Bwd Packets/s (tau3) 0.06113832940180234
+Min Packet Length (tau5) 0.05498762763933903
+Packet Length Mean (tau3) 0.06439351058173108
+Packet Length Mean (tau4) 0.023633125180911502
+Packet Length Variance (tau3) 0.06073912780499598
+SYN Flag Count (tau5) 0.00026613439787093185
+RST Flag Count (tau4) 0.030436097501965704
+RST Flag Count (tau5) 0.030702231899836563
+Average Packet Size (tau4) 0.03333442485531787
+Avg Fwd Segment Size (tau3) 0.033843779896315186
+Avg Fwd Segment Size (tau4) 0.0033077547876985505
+Avg Bwd Segment Size (tau3) 0.030303030303030276
+Subflow Bwd Packets (tau4) 0.0004129071736054997
+Subflow Bwd Bytes (tau4) 0.06060606060606055
+Init_Win_bytes_forward (tau5) 5.482230719681495e-05
+Init_Win_bytes_backward (tau4) 0.030835299098772067
+Init_Win_bytes_backward (tau5) 0.030436097501965704
+min_seg_size_forward (tau4) 0.011858294840769426
+Idle Min (tau4) 0.0012524270976159342
+Inbound (tau3) 0.04081694757764587
+Inbound (tau4) 0.00026613439787093185
+
+==> Solution 26
+Source Port (tau5) 0.0012773019314404517
+Total Length of Fwd Packets (tau3) 0.04181593701322265
+Fwd Packet Length Max (tau3) 0.08456954085981634
+Fwd Packet Length Min (tau3) 0.08536029683399741
+Fwd Packet Length Mean (tau4) 0.02903571225042249
+Bwd Packet Length Max (tau3) 0.04166666666666674
+Bwd Packet Length Max (tau5) 0.0005640157924422518
+Bwd Packet Length Min (tau4) 0.04166666666666674
+Bwd Packet Length Min (tau5) -0.0005640157924420297
+Bwd Packet Length Mean (tau5) 0.0005640157924422518
+Bwd Packet Length Std (tau3) 0.0
+Flow IAT Std (tau4) -5.810237638714799e-05
+Fwd IAT Min (tau5) 0.0100223813761993
+Bwd IAT Std (tau4) 0.04166666666666674
+Bwd IAT Max (tau5) 0.0411026508742246
+Fwd Packets/s (tau5) 0.00240533351632477
+Bwd Packets/s (tau4) 0.0005640157924422518
+Bwd Packets/s (tau5) 0.0
+Min Packet Length (tau5) 0.0511864444632549
+Packet Length Mean (tau3) 0.08537966429279313
+Packet Length Mean (tau4) 0.029035712250422525
+RST Flag Count (tau4) 0.0003760105282948345
+RST Flag Count (tau5) 0.0005640157924422518
+URG Flag Count (tau5) 0.013888888888888914
+Average Packet Size (tau4) 0.057020862751143375
+Avg Fwd Segment Size (tau3) 0.08537966429279309
+Avg Fwd Segment Size (tau4) 0.02903571225042249
+Avg Bwd Segment Size (tau3) 0.04223068245910899
+Fwd Header Length.1 (tau3) 0.000752021056589706
+Subflow Fwd Bytes (tau3) 0.04181593701322265
+Subflow Bwd Packets (tau4) 0.0005640157924422518
+Subflow Bwd Bytes (tau4) 0.04166666666666674
+Init_Win_bytes_forward (tau5) 0.0005640157924422518
+Init_Win_bytes_backward (tau4) 0.042794698251551244
+Init_Win_bytes_backward (tau5) 0.04166666666666674
+min_seg_size_forward (tau4) 0.0003566430694991185
+Active Max (tau5) 0.002256063169768896
+Idle Min (tau3) 0.08464937018236525
+Inbound (tau4) 0.014452904681331166
+
+==> Solution 27
+Fwd Packet Length Mean (tau3) 0.6281494854973778
+Bwd Header Length (tau3) 0.004253660512454978
+Fwd Packets/s (tau5) 0.09449394560837132
+Subflow Bwd Bytes (tau4) 0.16679775575481104
+Idle Min (tau3) 0.3348361675034721
+
+==> Solution 28
+Fwd Packet Length Mean (tau3) 0.6149679575471944
+Fwd Packets/s (tau5) 0.08681856458141161
+Subflow Bwd Bytes (tau4) 0.03720487859460686
+Init_Win_bytes_forward (tau3) 0.004751403943728527
+Init_Win_bytes_backward (tau5) 0.003976357049893742
+Idle Min (tau3) 0.14965872216627518
+
+==> Solution 29
+Subflow Bwd Bytes (tau4) 0.05554214767440313
+Init_Win_bytes_backward (tau5) 0.00509351729889392
+Idle Min (tau3) 0.28324671574894283
+
+==> Solution 30
+Total Backward Packets (tau4) 4.4691139534832246e-05
+Fwd Packet Length Mean (tau3) 0.025830462831299455
+Fwd Packet Length Mean (tau4) 0.03500864477799822
+Bwd Packet Length Max (tau5) 0.00028723135038758824
+Bwd Packet Length Min (tau4) 4.4691139534832246e-05
+Bwd Packet Length Mean (tau5) 0.00013149669509034587
+Bwd Packet Length Std (tau3) 0.0002693548945736553
+Bwd Packet Length Std (tau4) 0.0004250895498709717
+Bwd Packet Length Std (tau5) 0.00047871891731254834
+Flow IAT Std (tau4) -8.938227906892434e-06
+Fwd IAT Min (tau3) 0.01465733208421601
+Fwd IAT Min (tau5) 0.02619651448216387
+Bwd IAT Std (tau4) -0.0002693548945735813
+Bwd IAT Max (tau5) -8.938227906892434e-06
+Fwd Header Length (tau5) 0.0036368951054264187
+Fwd Packets/s (tau5) 0.017787729935912894
+Bwd Packets/s (tau3) 0.013176577436206075
+Min Packet Length (tau5) 0.02620013865426048
+Max Packet Length (tau3) 0.02516661785145513
+Packet Length Mean (tau3) 0.025868792466440915
+Packet Length Mean (tau4) 0.04168760413692744
+RST Flag Count (tau4) 0.00805891001991125
+RST Flag Count (tau5) 0.00042903493953305727
+Average Packet Size (tau4) 0.039510300699731826
+Avg Fwd Segment Size (tau3) 0.025830462831299455
+Avg Bwd Segment Size (tau3) 0.00016467288320428283
+Avg Bwd Segment Size (tau5) 0.00013149669509034587
+Subflow Fwd Packets (tau4) 0.00021830225064593348
+Subflow Fwd Bytes (tau3) 0.004918846476997622
+Subflow Fwd Bytes (tau5) 0.02345159167493464
+Subflow Bwd Bytes (tau4) 0.00016467288320428283
+Init_Win_bytes_forward (tau5) 0.0005744627007750284
+Init_Win_bytes_backward (tau4) 0.00027829312248069577
+Init_Win_bytes_backward (tau5) 0.0002514784387597964
+act_data_pkt_fwd (tau3) 0.00033449921343601624
+min_seg_size_forward (tau4) 0.005106228045477816
+Active Max (tau5) 0.0013020833333333703
+Idle Mean (tau4) 0.0010952960341084061
+Idle Std (tau5) 0.00013665014211794446
+Idle Min (tau3) 0.03498153475485336
+Idle Min (tau4) 0.001355712700775058
+Inbound (tau4) 0.0012931451054265148
+Inbound (tau5) 0.0009816757948319932
+
+==> Solution 31
+Flow Duration (tau3) 0.0013710109949048495
+Flow Duration (tau5) 0.04003689177914841
+Total Fwd Packets (tau4) 0.0010416666666666075
+Total Backward Packets (tau5) 5.3633681952214296e-05
+Total Length of Fwd Packets (tau3) 0.0010416666666666075
+Total Length of Fwd Packets (tau4) 0.014086957952186582
+Total Length of Bwd Packets (tau3) 0.03790509259259267
+Total Length of Bwd Packets (tau4) 0.03773148148148153
+Total Length of Bwd Packets (tau5) 0.0
+Fwd Packet Length Max (tau3) 0.004103116340395063
+Fwd Packet Length Max (tau4) 0.026588370181659233
+Fwd Packet Length Min (tau5) 0.0056934108786984945
+Fwd Packet Length Mean (tau4) 0.038934049194004894
+Fwd Packet Length Std (tau3) 0.03807870370370381
+Bwd Packet Length Max (tau3) 0.03773148148148153
+Bwd Packet Length Min (tau4) 0.00017361111111113825
+Bwd Packet Length Mean (tau5) 0.0005208333333334147
+Bwd Packet Length Std (tau3) 0.037210648148148194
+Bwd Packet Length Std (tau4) -5.3633681952214296e-05
+Bwd Packet Length Std (tau5) -5.3633681952214296e-05
+Flow Packets/s (tau5) 0.026876790893199498
+Flow IAT Std (tau4) 0.001388888888888884
+Fwd IAT Total (tau3) 0.0015803778939840196
+Fwd IAT Total (tau4) 0.001473110530079554
+Fwd IAT Mean (tau5) 0.040054769673132484
+Fwd IAT Std (tau5) 0.0007302002324126958
+Fwd IAT Min (tau5) 0.04128792534489437
+Bwd IAT Total (tau3) 0.037486358794433995
+Bwd IAT Mean (tau5) 0.03701915914305298
+Bwd IAT Std (tau4) 0.0741404178212806
+Bwd IAT Max (tau5) -1.787789398407143e-05
+Bwd IAT Min (tau5) 0.03707279282500523
+Fwd Header Length (tau3) 0.03842592592592594
+Fwd Header Length (tau5) 0.03842592592592594
+Fwd Packets/s (tau5) 0.014531111880853839
+Bwd Packets/s (tau4) 0.037713603587497424
+Bwd Packets/s (tau5) -1.787789398407143e-05
+Min Packet Length (tau5) 0.005519799767587356
+Packet Length Mean (tau3) 0.04115803127141623
+Packet Length Mean (tau4) 0.03909495023986168
+RST Flag Count (tau4) 0.037210648148148194
+RST Flag Count (tau5) 0.03703703703703709
+ACK Flag Count (tau5) -0.00046719965138108943
+URG Flag Count (tau5) 0.037557870370370394
+Down/Up Ratio (tau5) 0.03703703703703709
+Average Packet Size (tau3) 0.07803416726259642
+Average Packet Size (tau5) 0.006196366318047726
+Avg Bwd Segment Size (tau3) 0.0005208333333334147
+Fwd Header Length.1 (tau3) 0.03842592592592594
+Fwd Header Length.1 (tau4) 0.0012152777777777457
+Fwd Header Length.1 (tau5) 0.03842592592592594
+Subflow Fwd Packets (tau3) 0.000694444444444479
+Subflow Fwd Packets (tau4) 0.0010416666666666075
+Subflow Fwd Packets (tau5) 0.0002093668990792811
+Subflow Bwd Packets (tau4) 0.0006765665504603705
+Subflow Bwd Bytes (tau4) 0.03773148148148153
+Init_Win_bytes_forward (tau4) 0.001023788772682536
+act_data_pkt_fwd (tau5) 0.03703703703703709
+min_seg_size_forward (tau3) 0.0003472222222222765
+min_seg_size_forward (tau4) 0.02592451369645321
+Active Max (tau4) 0.03762421411757696
+Active Max (tau5) -0.00046719965138108943
+Idle Mean (tau4) -5.3633681952214296e-05
+Idle Std (tau5) 0.00017361111111113825
+Idle Min (tau4) -5.3633681952214296e-05
+Inbound (tau4) 0.03743789294121155
+
+==> Solution 32
+Total Fwd Packets (tau3) 0.0001705962749218489
+Total Fwd Packets (tau4) -0.00012530488141885657
+Total Backward Packets (tau5) 1.6359583007163891e-06
+Total Length of Fwd Packets (tau3) -0.0016058273343707203
+Total Length of Fwd Packets (tau4) 0.04122987490459976
+Fwd Packet Length Max (tau3) 0.012409247944534685
+Fwd Packet Length Max (tau4) 0.04170140907049354
+Fwd Packet Length Max (tau5) 0.045915800128408235
+Fwd Packet Length Min (tau3) 0.0001939901184550008
+Fwd Packet Length Min (tau5) 0.04593517390855828
+Fwd Packet Length Mean (tau4) 0.04180331470587506
+Fwd Packet Length Mean (tau5) 0.04606777617246579
+Fwd Packet Length Std (tau3) -5.6614241878601606e-06
+Bwd Packet Length Max (tau3) 0.011951689256565609
+Bwd Packet Length Mean (tau3) -0.011552246506542555
+Bwd Packet Length Mean (tau4) 0.0008643042229848907
+Bwd Packet Length Std (tau5) 1.6984272563580483e-05
+Flow Bytes/s (tau3) 0.10001300450785992
+Flow Bytes/s (tau4) 0.05502887122641394
+Flow Bytes/s (tau5) 0.04318438566098907
+Flow Packets/s (tau4) 0.023415602818951126
+Flow IAT Mean (tau3) 0.027170970309894866
+Flow IAT Mean (tau4) 0.0317530261881012
+Flow IAT Std (tau3) 9.863371878027216e-05
+Flow IAT Max (tau5) 0.04431494489871143
+Flow IAT Min (tau3) 0.02846377795312786
+Flow IAT Min (tau4) 0.031808758020964945
+Fwd IAT Total (tau5) 0.043135365739235744
+Fwd IAT Mean (tau3) 0.02926782904753437
+Fwd IAT Std (tau5) 0.0006937079480630418
+Fwd IAT Max (tau5) 0.04416863027884177
+Fwd IAT Min (tau5) 0.043935004788567635
+Bwd IAT Total (tau5) 0.00014958653647112463
+Bwd IAT Mean (tau4) 1.6359583007163891e-06
+Bwd IAT Mean (tau5) 0.0002862142662657015
+Bwd IAT Std (tau5) 0.02414505493517956
+Bwd IAT Min (tau3) -3.233258682651859e-05
+Bwd IAT Min (tau4) 0.0001552479606589848
+Fwd Header Length (tau3) -0.001649609828467365
+Fwd Header Length (tau5) 0.0026146759566911815
+Bwd Header Length (tau5) -0.01188853118148403
+Fwd Packets/s (tau3) 0.010705690710322643
+Fwd Packets/s (tau4) 0.023415602818951164
+Fwd Packets/s (tau5) 0.01702453842767156
+Bwd Packets/s (tau4) 0.00020859028593626464
+Bwd Packets/s (tau5) -0.011624209062684058
+Packet Length Mean (tau3) 0.012523229977577858
+RST Flag Count (tau3) 0.012230606140342696
+RST Flag Count (tau4) 0.00016493485073398872
+Average Packet Size (tau4) 0.04234201280364839
+Avg Fwd Segment Size (tau3) 0.011919222407505722
+Avg Fwd Segment Size (tau4) 0.04180897613006299
+Subflow Bwd Bytes (tau4) 0.012075358179683785
+Init_Win_bytes_forward (tau5) 0.0014787522324178533
+Init_Win_bytes_backward (tau4) 0.012092342452247329
+Init_Win_bytes_backward (tau5) -0.012058373907120131
+min_seg_size_forward (tau4) 0.004622201286438088
+Idle Min (tau4) 0.0015620376369351503
+Inbound (tau3) 0.005300691580802153
+Inbound (tau4) 0.0009839476802159612
+
+==> Solution 33
+Total Fwd Packets (tau3) 0.0008975049362772713
+Total Backward Packets (tau4) -1.8469267139442636e-05
+Total Length of Fwd Packets (tau3) -0.0001979702543948303
+Total Length of Fwd Packets (tau4) 0.0010215981221142572
+Total Length of Fwd Packets (tau5) 0.0021909503813441664
+Fwd Packet Length Max (tau3) 0.00117454394336954
+Fwd Packet Length Min (tau3) 0.0006545102487426716
+Fwd Packet Length Mean (tau3) 0.000636040981603155
+Fwd Packet Length Mean (tau4) -0.0008420971348586104
+Bwd Packet Length Max (tau3) -0.00037747124165029194
+Bwd Packet Length Max (tau5) -0.0001979702543948303
+Bwd Packet Length Min (tau4) 0.0007734117504403596
+Bwd Packet Length Min (tau5) 0.0007734117504403596
+Bwd Packet Length Std (tau3) 0.00021643952153449497
+Bwd Packet Length Std (tau5) 0.001238037643648604
+Flow IAT Std (tau4) 0.0005200336946269793
+Flow IAT Max (tau3) 0.001615508885299007
+Fwd IAT Total (tau4) 0.0021170733127863217
+Fwd IAT Mean (tau5) 0.002315043567181226
+Fwd IAT Std (tau3) 0.0005200336946269793
+Fwd IAT Min (tau5) 0.004289554426990934
+Bwd IAT Mean (tau5) 0.0005200336946269793
+Bwd IAT Std (tau4) 0.0007180039490218837
+Bwd IAT Max (tau5) 0.0005200336946269793
+Bwd IAT Min (tau5) -1.8469267139442636e-05
+Fwd Header Length (tau5) 0.0005200336946269793
+Fwd Packets/s (tau5) 0.0017580713382753983
+Bwd Packets/s (tau5) 0.0010585366563931793
+Min Packet Length (tau5) 0.004833249072896617
+Packet Length Mean (tau3) 0.0014094527320433665
+Packet Length Mean (tau4) -0.0008236278677191308
+Packet Length Std (tau3) 0.0005200336946269793
+RST Flag Count (tau4) -1.8469267139442636e-05
+RST Flag Count (tau5) 0.0005200336946269793
+Average Packet Size (tau4) -0.000754942483300621
+Avg Fwd Segment Size (tau3) 0.000636040981603155
+Avg Fwd Segment Size (tau4) -0.0008420971348586104
+Avg Bwd Segment Size (tau3) 0.0003405327073714807
+Fwd Header Length.1 (tau3) 0.000699534681882367
+Subflow Fwd Bytes (tau3) -0.0001979702543948303
+Subflow Bwd Packets (tau4) -1.8469267139442636e-05
+Subflow Bwd Bytes (tau4) -0.0002666556388133401
+Init_Win_bytes_forward (tau5) 0.0008975049362772713
+act_data_pkt_fwd (tau5) -1.8469267139442636e-05
+min_seg_size_forward (tau3) -0.00017950098725531363
+min_seg_size_forward (tau4) 0.00016103172011598202
+Active Max (tau4) 0.000538502961766496
+Active Max (tau5) 0.0006493185646032629
+Idle Mean (tau4) 0.001077005923532659
+Idle Std (tau5) 0.0005569722289059756
+Idle Min (tau3) 0.042260577429851565
+Idle Min (tau4) 0.001077005923532659
+Inbound (tau4) 0.0003405327073714807
+
+==> Solution 34
+Fwd Packet Length Mean (tau3) 0.30391148136634927
+Fwd Packet Length Mean (tau4) 0.05840683066278033
+Fwd Packet Length Std (tau3) 0.015212012672216982
+Bwd Packet Length Max (tau3) 0.0001226900970119349
+Bwd Packet Length Mean (tau3) 0.0008296813571549618
+Bwd Packet Length Mean (tau4) 0.014538772270002146
+Bwd Packet Length Std (tau5) 0.0007416286180681094
+Flow Bytes/s (tau3) 0.3147841685850533
+Flow Bytes/s (tau4) 0.04947433273549062
+Flow Bytes/s (tau5) 0.049632017044239696
+Flow Packets/s (tau3) 0.03953428624194644
+Flow IAT Std (tau4) 0.002693074299536913
+Flow IAT Max (tau4) 0.05647183375084919
+Fwd IAT Total (tau4) 0.045904446081088825
+Fwd Packets/s (tau5) 0.05789439923137959
+RST Flag Count (tau4) 0.0004766177080140673
+Subflow Bwd Bytes (tau4) 0.028935167381623383
+Init_Win_bytes_backward (tau4) 0.01648362930318988
+Init_Win_bytes_backward (tau5) 0.0019074587536626424
+Inbound (tau4) 0.029202961751413053
+
+==> Solution 35
+Subflow Bwd Bytes (tau4) 0.06389723925259527
+Init_Win_bytes_backward (tau5) 0.0032977707295979894
+Idle Min (tau3) 0.2259597557527515
+
+==> Solution 36
+Fwd Packet Length Mean (tau3) 0.36153616333887806
+Flow Bytes/s (tau4) 0.1391970502718071
+Bwd IAT Max (tau4) 0.002912184944869889
+Fwd Packets/s (tau5) 0.13131104574644428
+RST Flag Count (tau4) -0.00540316038498027
+Avg Fwd Segment Size (tau4) 0.13851487423646633
+Subflow Bwd Bytes (tau4) 0.02623953006390667
+Init_Win_bytes_backward (tau4) -0.007910480580758272
+Init_Win_bytes_backward (tau5) 0.015239549903671787
+Inbound (tau4) -0.004286591653066958

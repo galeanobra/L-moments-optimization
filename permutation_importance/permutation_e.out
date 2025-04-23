@@ -1,0 +1,100 @@
+==> Solution 0
+Fwd Packet Length Mean (tau3) 0.17837052734465514
+CWE Flag Count (tau3) 0.03016352164162025
+
+==> Solution 1
+Fwd Packet Length Mean (tau3) 0.04271890637474272
+Fwd Packet Length Mean (tau4) 0.0404989080750638
+Fwd Packet Length Std (tau5) 0.019857591468639014
+ACK Flag Count (tau3) 0.02640191804186771
+URG Flag Count (tau3) 0.012217022737809113
+CWE Flag Count (tau3) 0.01786567529978116
+Inbound (tau3) 0.024159420376488237
+
+==> Solution 2
+Fwd Packet Length Mean (tau3) 0.03597145871508691
+Fwd Packet Length Mean (tau4) 0.026899698298998666
+Fwd Packet Length Std (tau5) 0.01615951283617447
+Bwd Packet Length Std (tau5) 0.012235178706942806
+ACK Flag Count (tau3) 0.036055305680493054
+URG Flag Count (tau3) 0.012175949062505752
+CWE Flag Count (tau3) 0.018313065689377527
+Init_Win_bytes_backward (tau3) 0.004355414885150033
+Idle Std (tau5) 0.005475040257648977
+Inbound (tau3) 0.029347178262720475
+
+==> Solution 3
+Fwd Packet Length Mean (tau3) 0.34014936975956456
+
+==> Solution 4
+Fwd Packet Length Mean (tau3) -0.015106446776611677
+
+==> Solution 5
+Fwd Packet Length Mean (tau3) 0.12760082921502217
+Bwd Packet Length Max (tau4) 0.023056249652951343
+CWE Flag Count (tau3) 0.06692746219482856
+
+==> Solution 6
+Fwd Packet Length Mean (tau3) 0.06611345334793375
+ACK Flag Count (tau3) 0.0288797665715123
+URG Flag Count (tau3) 0.020000363218601068
+CWE Flag Count (tau3) 0.04030628744851035
+
+==> Solution 7
+Fwd Packet Length Mean (tau3) 0.08658297392628538
+ACK Flag Count (tau3) 0.031320393782773626
+CWE Flag Count (tau3) 0.042316742763205614
+
+==> Solution 8
+Packet Length Mean (tau4) 0.052142447294871
+ACK Flag Count (tau3) 0.043346660003331615
+URG Flag Count (tau3) 0.016137486812149427
+CWE Flag Count (tau3) 0.05511299905602747
+
+==> Solution 9
+  > Error al calcular importancia: A worker process managed by the executor was unexpectedly terminated. This could be caused by a segmentation fault while calling the function or by an excessive memory usage causing the Operating System to kill the worker.
+
+The exit codes of the workers are {SIGKILL(-9)}
+
+==> Solution 10
+Fwd Packet Length Mean (tau3) 0.05993998415201076
+ACK Flag Count (tau3) 0.03269151297249573
+URG Flag Count (tau3) 0.017436117869129953
+CWE Flag Count (tau3) 0.023603677290388314
+Inbound (tau3) 0.022554136661643097
+
+==> Solution 11
+ACK Flag Count (tau5) 0.1029985007496252
+
+==> Solution 12
+ACK Flag Count (tau5) 0.08543610446705077
+
+=== Índice de características seleccionables (posición en features_tau) ===
+  0: ACK Flag Count (tau3)
+  1: ACK Flag Count (tau5)
+  2: Bwd Packet Length Max (tau4)
+  3: Bwd Packet Length Std (tau5)
+  4: CWE Flag Count (tau3)
+  5: Fwd Packet Length Mean (tau3)
+  6: Fwd Packet Length Mean (tau4)
+  7: Fwd Packet Length Std (tau5)
+  8: Idle Std (tau5)
+  9: Inbound (tau3)
+ 10: Init_Win_bytes_backward (tau3)
+ 11: Packet Length Mean (tau4)
+ 12: URG Flag Count (tau3)
+
+=== Importancia por índice de característica ===
+Índice   0: 0.0331 ± 0.0055
+Índice   1: 0.0942 ± 0.0088
+Índice   2: 0.0231 ± 0.0000
+Índice   3: 0.0122 ± 0.0000
+Índice   4: 0.0368 ± 0.0166
+Índice   5: 0.1025 ± 0.0989
+Índice   6: 0.0337 ± 0.0068
+Índice   7: 0.0180 ± 0.0018
+Índice   8: 0.0055 ± 0.0000
+Índice   9: 0.0254 ± 0.0029
+Índice  10: 0.0044 ± 0.0000
+Índice  11: 0.0521 ± 0.0000
+Índice  12: 0.0156 ± 0.0030

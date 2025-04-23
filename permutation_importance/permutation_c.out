@@ -1,0 +1,293 @@
+==> Solution 0
+Source Port (tau3) 9.601536245797959e-05
+Flow Duration (tau3) 4.800768122898979e-05
+Total Fwd Packets (tau3) 0.001117231388601092
+Total Backward Packets (tau5) -0.0004560729716754031
+Total Length of Fwd Packets (tau3) 0.0024635520630669648
+Total Length of Fwd Packets (tau4) 0.0
+Total Length of Fwd Packets (tau5) 0.0
+Fwd Packet Length Max (tau4) -0.00019203072491595917
+Fwd Packet Length Min (tau5) 0.0
+Fwd Packet Length Mean (tau4) -7.20115218434847e-05
+Fwd Packet Length Std (tau3) -0.0013442150744119364
+Fwd Packet Length Std (tau4) 0.001597308200891101
+Flow Bytes/s (tau3) 0.05852094229813616
+Flow IAT Std (tau3) 0.01492533542208856
+Flow IAT Std (tau4) 0.007017543859649145
+Fwd IAT Std (tau5) 0.00024003840614494898
+Bwd IAT Total (tau3) 0.00024003840614494898
+Bwd Packets/s (tau5) 0.001573304360276606
+Min Packet Length (tau3) 0.0
+Packet Length Variance (tau3) -0.0006961113778204519
+RST Flag Count (tau4) 0.001117231388601092
+RST Flag Count (tau5) 0.00024003840614494898
+URG Flag Count (tau3) 0.00024003840614494898
+CWE Flag Count (tau4) 0.00024003840614494898
+Down/Up Ratio (tau5) -0.00024003840614494898
+Subflow Fwd Packets (tau5) 0.0
+Subflow Fwd Bytes (tau3) 0.0024635520630669648
+Subflow Fwd Bytes (tau4) 0.0
+Init_Win_bytes_forward (tau5) 0.0
+Active Max (tau3) 0.0
+Active Max (tau5) 0.00197042053044274
+Idle Max (tau4) 0.0
+Idle Min (tau4) -0.00021603456553045408
+Inbound (tau3) 0.00026404224675945497
+Inbound (tau4) 0.00048007681228999787
+
+==> Solution 1
+Destination Port (tau4) 1.4108352144459601e-05
+Source Port (tau3) 7.054176072229801e-05
+Flow Duration (tau3) 9.875846501126163e-05
+Total Fwd Packets (tau3) 0.0029204288939051358
+Total Backward Packets (tau5) 0.009593979635944438
+Total Length of Fwd Packets (tau3) 7.054176072229801e-05
+Total Length of Fwd Packets (tau4) 2.8216704288919203e-05
+Total Length of Fwd Packets (tau5) 4.23250564333788e-05
+Fwd Packet Length Max (tau4) 2.8216704288919203e-05
+Fwd Packet Length Min (tau5) 4.23250564333788e-05
+Fwd Packet Length Mean (tau4) 9.875846501121721e-05
+Fwd Packet Length Std (tau3) 0.004768623024830676
+Fwd Packet Length Std (tau4) 0.0002821670428894141
+Flow Bytes/s (tau3) 0.0011061548436674174
+Flow IAT Std (tau3) 0.0026946952595936825
+Flow IAT Std (tau4) 0.002017494356659122
+Bwd IAT Total (tau3) 0.004923814898419854
+Bwd Packets/s (tau5) 0.0004091422121895949
+Packet Length Variance (tau3) 0.009593979635944438
+RST Flag Count (tau4) 0.004119638826185057
+RST Flag Count (tau5) 0.004034988713318255
+URG Flag Count (tau3) 0.00031038374717833327
+CWE Flag Count (tau4) 0.003103837471783266
+Down/Up Ratio (tau4) 0.005827049613371082
+Active Max (tau3) 0.00025395033860038386
+Active Max (tau5) 0.00012697516930013642
+Idle Max (tau4) 0.00014108352144459602
+Idle Min (tau4) 0.00014108352144464041
+Inbound (tau3) 0.0009452595936794261
+Inbound (tau4) 0.0005643340857787394
+
+==> Solution 2
+Total Length of Fwd Packets (tau4) 0.0013979223125564655
+Flow Bytes/s (tau3) 0.08484191508581748
+Flow IAT Std (tau3) 0.009959349593495925
+Packet Length Variance (tau3) 0.07913730803974703
+RST Flag Count (tau4) 0.0036585365853658127
+URG Flag Count (tau3) 0.005126467931346024
+
+==> Solution 3
+Source Port (tau3) 0.0017730160733820833
+Fwd Packet Length Max (tau4) 0.0
+Packet Length Variance (tau3) 0.055818185643355965
+RST Flag Count (tau4) 0.01578568122527977
+URG Flag Count (tau3) 0.031194248085500243
+Init_Win_bytes_forward (tau5) 0.005418454935622252
+Active Max (tau3) 0.010944206008583568
+Active Max (tau5) 0.0002950643776823636
+Idle Max (tau4) 0.00026824034334760327
+Idle Min (tau4) 0.003192060085836834
+Inbound (tau3) 0.005069742489270323
+Inbound (tau4) 0.0028580745602961866
+
+==> Solution 4
+Fwd Packet Length Max (tau4) 0.0006458215697345948
+Flow IAT Mean (tau5) 0.0020461603613777467
+Fwd Packets/s (tau5) -0.0022727272727272483
+Packet Length Std (tau3) 0.03430830039525691
+Packet Length Variance (tau3) 0.05939864483342744
+RST Flag Count (tau4) -0.0008681535855449174
+URG Flag Count (tau3) 0.013910220214568026
+
+==> Solution 5
+Fwd Packet Length Max (tau4) 0.005963930646942994
+Fwd Packets/s (tau5) -0.0010356130829451081
+Packet Length Variance (tau3) 0.11693302435041542
+RST Flag Count (tau4) -0.004882090197396871
+URG Flag Count (tau3) -0.0072522933576677495
+Down/Up Ratio (tau5) 0.030761610873637248
+
+==> Solution 6
+Fwd Packet Length Max (tau4) 0.015151515151515138
+Packet Length Mean (tau3) 0.12122239342578323
+Packet Length Variance (tau3) 0.1273767334360555
+RST Flag Count (tau4) 0.056005392912172616
+
+==> Solution 7
+Fwd Packet Length Max (tau4) 0.000715323471495144
+Flow IAT Std (tau3) 0.010783583881657965
+Bwd Packets/s (tau5) 0.0010016930022573312
+Packet Length Variance (tau3) 0.06004214494981029
+RST Flag Count (tau4) 0.00509311512415348
+RST Flag Count (tau5) 0.01307874261562847
+URG Flag Count (tau3) 0.005939616252821666
+CWE Flag Count (tau4) 0.004373589164785541
+Down/Up Ratio (tau4) 0.013097053455645779
+
+==> Solution 8
+Fwd Packet Length Max (tau4) 0.009803921568627416
+Packet Length Variance (tau3) 0.5004255028191534
+
+==> Solution 9
+Fwd Packet Length Max (tau4) 0.009503926324383993
+Flow Bytes/s (tau3) 0.042017074107871845
+Flow IAT Std (tau3) 0.01596164929638343
+Flow IAT Min (tau5) -7.054176072235352e-05
+Packet Length Variance (tau3) 0.09039101147879544
+RST Flag Count (tau4) 0.01512475385428167
+URG Flag Count (tau3) 0.005149548532731363
+Down/Up Ratio (tau5) 0.011286981893280767
+
+==> Solution 10
+Total Length of Fwd Packets (tau3) 0.3299458950835098
+Fwd Packet Length Max (tau4) 0.07987532345330517
+Bwd IAT Max (tau4) 0.000352858151023272
+Packet Length Variance (tau3) 0.44980004704775345
+
+==> Solution 11
+Total Length of Fwd Packets (tau3) 0.11964709203839641
+Fwd Packet Length Max (tau4) 0.03209768492377191
+Min Packet Length (tau5) 0.0014779785431959125
+Packet Length Variance (tau3) 0.22002117447769626
+RST Flag Count (tau4) 0.02844155844155847
+
+==> Solution 12
+Source Port (tau3) 0.00013412017167385715
+Fwd Packet Length Max (tau4) 0.00010729613733908571
+Flow Bytes/s (tau5) 0.0010340402255322955
+Packet Length Variance (tau3) 0.06591717158966601
+RST Flag Count (tau4) 0.005069742489270457
+URG Flag Count (tau3) 0.04118593789447121
+Init_Win_bytes_forward (tau5) 0.00515021459227476
+Active Max (tau3) 0.050294012454767424
+Active Max (tau5) 0.0008047210300430319
+Idle Max (tau4) 0.0005364806866954286
+Idle Min (tau4) 0.0031384120171674247
+Inbound (tau3) 0.004989270386266153
+Inbound (tau4) 0.0024141630901288735
+
+==> Solution 13
+Fwd Packet Length Max (tau4) 0.0038362710724749614
+Fwd Packets/s (tau5) 0.001539311272273225
+Packet Length Variance (tau3) 0.14898479900100867
+RST Flag Count (tau4) 0.01041226406032376
+URG Flag Count (tau3) 0.008832128620143176
+Down/Up Ratio (tau5) 0.01922037846405076
+Fwd Header Length.1 (tau3) 0.011071454300946216
+
+==> Solution 14
+Source Port (tau3) 4.232505643344542e-05
+Flow Duration (tau3) 0.0006306733586283753
+Total Fwd Packets (tau3) 0.0008323927765237715
+Total Backward Packets (tau5) 0.0155056793621825
+Total Length of Fwd Packets (tau3) 0.0026736828202296283
+Total Length of Fwd Packets (tau5) 5.643340857794943e-05
+Fwd Packet Length Max (tau4) 0.004297644205369611
+Fwd Packet Length Min (tau5) 5.643340857792722e-05
+Fwd Packet Length Mean (tau4) 2.821670428896361e-05
+Fwd Packet Length Std (tau3) 0.013473776475673637
+Fwd Packet Length Std (tau4) 0.005008465011286734
+Flow Bytes/s (tau3) 0.011071454300946183
+Flow IAT Std (tau4) 0.007590293453724672
+Fwd IAT Std (tau5) 0.000663092550790123
+Bwd IAT Total (tau3) 0.010309303107439638
+Packet Length Variance (tau3) 0.021374753854281815
+RST Flag Count (tau4) 0.00946700446664429
+URG Flag Count (tau3) 0.0007195259593679836
+Down/Up Ratio (tau5) 0.013252545506940184
+Average Packet Size (tau4) 0.003106839248835347
+Active Max (tau5) 0.00012697516930033627
+Idle Max (tau4) 0.00019751693002266756
+Idle Min (tau4) 0.007082692954228942
+Inbound (tau3) 0.002243227990970731
+Inbound (tau4) 0.001678893905191914
+
+==> Solution 15
+Packet Length Variance (tau3) 0.4400947360837616
+
+==> Solution 16
+Fwd Packet Length Max (tau4) 0.0
+Packet Length Variance (tau3) 0.49379704488430437
+
+==> Solution 17
+Fwd Packet Length Max (tau4) 0.021794871794871874
+Packet Length Variance (tau3) 0.492190072924018
+
+==> Solution 18
+Packet Length Mean (tau3) 0.26552225326672874
+Packet Length Variance (tau3) 0.4920892952897017
+
+==> Solution 19
+Fwd Packet Length Max (tau4) 0.017968947235546495
+Fwd Packet Length Std (tau3) 0.23582691660355123
+Packet Length Variance (tau3) 0.04421705377429934
+
+==> Solution 20
+Packet Length Mean (tau3) 0.10052159796725024
+Packet Length Variance (tau3) 0.4728973743647657
+
+==> Solution 21
+Destination Port (tau3) 0.008719512195121992
+Fwd Packet Length Max (tau4) 0.0025225835591689227
+Flow Bytes/s (tau3) 0.054661246612466186
+Flow IAT Std (tau3) 0.0012646793134597823
+Bwd Packets/s (tau3) 0.011991869918699171
+Packet Length Variance (tau3) 0.03703703703703708
+RST Flag Count (tau4) 0.005826558265582693
+URG Flag Count (tau3) 0.000993676603432725
+
+==> Solution 22
+Source Port (tau3) 0.008769895646674398
+Flow Duration (tau4) -0.005381047749552015
+Packet Length Variance (tau3) 0.3000009582490873
+Init_Win_bytes_forward (tau3) 0.031823931312705445
+
+==> Solution 23
+Total Length of Bwd Packets (tau5) 0.03803761827001586
+Flow IAT Max (tau5) 0.010106382978723382
+Packet Length Variance (tau3) 0.1269448513520004
+
+==> Solution 24
+Fwd Packet Length Max (tau4) 0.021540834824645007
+Packet Length Mean (tau3) 0.08018656889859857
+Packet Length Variance (tau3) 0.287724277779069
+RST Flag Count (tau4) 0.02619866595393594
+
+==> Solution 25
+Total Length of Bwd Packets (tau5) 0.004091121944190956
+Flow IAT Max (tau5) 0.00851063829787233
+Packet Length Variance (tau3) 0.11374153498871334
+Init_Win_bytes_forward (tau4) 0.012105266317660023
+
+==> Solution 26
+Fwd Packet Length Max (tau4) -0.013131366367373531
+Packet Length Variance (tau3) 0.4689958507814521
+
+==> Solution 27
+Destination Port (tau5) -0.0024269367465539204
+Packet Length Variance (tau3) 0.359040451947553
+
+==> Solution 28
+Destination Port (tau5) 0.009295392953929515
+Packet Length Variance (tau3) 0.2771973803071364
+
+==> Solution 29
+Source Port (tau5) 0.001468769511550816
+Total Length of Fwd Packets (tau5) -0.002184092983045949
+Total Length of Bwd Packets (tau5) 0.018007060179626343
+Fwd Packet Length Max (tau4) -0.0037657293117525636
+Flow Bytes/s (tau3) 0.001511094567984228
+Flow IAT Std (tau3) 0.006080999951971544
+Bwd IAT Total (tau4) 0.0008320925988185123
+Bwd Packets/s (tau5) 0.006179758416982828
+Packet Length Variance (tau3) 0.014715311464386871
+RST Flag Count (tau5) 0.010694431103213076
+URG Flag Count (tau3) 0.0007153234714950552
+CWE Flag Count (tau4) 0.013280762211229046
+Down/Up Ratio (tau4) -0.0021687839200806745
+Fwd Header Length.1 (tau3) -0.010342022477306612
+Subflow Fwd Packets (tau5) -0.0049100067239805974
+Subflow Fwd Bytes (tau3) -0.002659574468085113
+Active Max (tau5) -0.005135740358292129
+Idle Max (tau4) -0.004472647807502073
+Idle Min (tau4) 0.003865688487584629
+Inbound (tau3) 0.008056169252197298
