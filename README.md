@@ -7,6 +7,7 @@ This repository contains the raw results, framework code, and analysis scripts f
 - **Results Data:**  
   - Includes the results obtained after the optimization of all analyzed scenarios, from (a) to (e).
   - These results represent the sample size *n*, the amount of features selected, and balanced accuracy in `FUN.csv` files, as well as decision variables in `VAR.csv` files.
+  - The [`permutation_importance`](./permutation_importance) folder includes a Python script to compute the permutation importance and the files with the results obtained for each scenario.
 
 - **Jupyter Notebook:**
   - Contains the scripts used to generate the figures included in the main article.
