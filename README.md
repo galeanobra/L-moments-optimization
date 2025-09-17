@@ -108,6 +108,7 @@ If you use this repository in your work, please cite the original article:
   volume = {242},
   pages = {108290},
   doi = {10.1016/j.comcom.2025.108290},
+  publisher = {Elsevier}
 }
 ```
 
