@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb) [![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/galeanobra/L-moments-optimization/HEAD?urlpath=lab/tree/plots.ipynb)
 
-This repository contains the raw results, framework code, and analysis scripts for the article **\"Network traffic classification through high-order L-moments and multi-objective optimization\"**, published in the journal *Journal*.
+This repository contains the raw results, framework code, and analysis scripts for the article **\"Network traffic classification through high-order L-moments and multi-objective optimization\"**, published in the journal *Computer Communications* (https://doi.org/10.1016/j.comcom.2025.108290).
 
 ## Contents
 
@@ -103,11 +103,11 @@ If you use this repository in your work, please cite the original article:
 @article{galeano2025network,
   title = {Network traffic classification through high-order L-moments and multi-objective optimization},
   author = {Galeano-Brajones, Jes{\'u}s and Chidean, Mihaela I and Luna, Francisco and Calle-Cancho, Jes{\'u}s and Carmona-Murillo, Javier},
-  journal = {Preprint},
+  journal = {Computer Communications},
   year = {2025},
-  volume = {XX},
-  pages = {XX--XX},
-  doi = {XX.XXXX/j.xx.xxxx},
+  volume = {242},
+  pages = {108290},
+  doi = {10.1016/j.comcom.2025.108290},
 }
 ```
 
